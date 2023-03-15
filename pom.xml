@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>linuxTest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
     <name>linuxTest</name>
     <description>Demo project for Spring Boot</description>
     <properties>
